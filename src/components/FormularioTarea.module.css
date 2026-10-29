@@ -1,0 +1,23 @@
+.formulario {
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #dee2e6;
+  margin-bottom: 20px;
+}
+
+
+
+.formulario input,
+.formulario textarea {
+  width: 100%;
+  max-width: 400px;
+  padding: 8px;
+}
+
+
+
+.formulario button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
