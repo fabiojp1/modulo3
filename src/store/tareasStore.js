@@ -4,8 +4,8 @@ export const useTareasStore = create((set) => ({
   tareas: [
     {
       id: 1,
-      titulo: "Estudiar React",
-      descripcion: "Repasar hooks y Zustand",
+      titulo: "trabajo en react",
+      descripcion: "estudiar react",
       completada: false,
     },
   ],
